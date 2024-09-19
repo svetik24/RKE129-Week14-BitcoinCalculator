@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+background-color: pink;
+  }
+
+.container {
+text-align: center;
+margin: 5rem;
+
+ }
+p { 
+    margin: 1rem;
+}
+.disclaimer {
+font-size: 0.8rem;
+
+ }
+
